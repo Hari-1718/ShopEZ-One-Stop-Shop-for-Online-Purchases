@@ -1,7 +1,3 @@
-Here’s your **ShopEZ** project README rewritten in the **same professional format** as the reference `README.md` file (`Doctor Appointment App`) you provided:
-
----
-
 # 🛒 ShopEZ – One-Stop Shop for Online Purchases
 
 A full-stack e-commerce web application that allows users to browse, search, and purchase products online. Includes user authentication, admin dashboard, flash sales, and more. Built for scalability and smooth user experience.
